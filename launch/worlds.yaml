@@ -1,0 +1,7 @@
+easy: spacecraft_easy
+moderate: spacecraft_moderate
+hard: spacecraft_hard
+real: real_world
+star: spacecraft_star
+maze: spacecraft_maze
+wonky: spacecraft_wonky

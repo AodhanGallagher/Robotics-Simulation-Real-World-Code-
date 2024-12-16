@@ -1,0 +1,10 @@
+module1:
+  entrance_x: 0.597
+  entrance_y: 0.266
+  center_x: 0.0551
+  center_y: 1.9
+module2:
+  entrance_x: 1.29
+  entrance_y: 0.266
+  center_x: 1.68
+  center_y: 1.98
